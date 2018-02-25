@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Personal Site",
-    "currentPage": "index.html",
+    "currentPage": "comcenter.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 67,
     "versionPublish": "4.6.3",
@@ -1336,7 +1336,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Side of east wing",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -1391,12 +1391,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/towerhighlight-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/towerhighlight-1920x1080-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/6-1-1920x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/6-1-1920x1080-800x450.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "First tower prototype",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
